@@ -1,0 +1,19 @@
+# Home Assistant
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.homeassistant/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Secrets — 切勿提交任何真实凭据
+.ha_token
+secrets.yaml
+*.har
+probe*.py
