@@ -24,7 +24,7 @@
 
 ### 方式一：HACS（推荐）
 
-1. 在 HACS 中添加自定义仓库：`https://github.com/wangz2zch/ha-broadair`，类别选「Integration」
+1. 在 HACS 中添加自定义仓库：`https://github.com/Wang2ZZCH/ha-broadair`，类别选「Integration」
 2. 安装并重启 Home Assistant
 
 ### 方式二：手动安装
